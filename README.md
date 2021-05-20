@@ -2,3 +2,5 @@
 
 ## Collaborators
 
+- [Bob Dylan](Somewhere)
+- [Neil Young](Canada)
