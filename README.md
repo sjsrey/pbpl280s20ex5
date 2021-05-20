@@ -2,3 +2,5 @@
 
 ## Collaborators
 
+- [Serge Rey](https://github.com/sjsrey)
+
