@@ -2,7 +2,8 @@
 
 ## Collaborators
 
+- [Laura Shah]()
 - [Serge Rey](https://github.com/sjsrey)
 - [Bob Dylan](Somewhere)
 - [Neil Young](Canada)
-- [Eli Knaap](_)
+- [Eli Knaap](0_)
