@@ -6,3 +6,4 @@
 - [Bob Dylan](Somewhere)
 - [Neil Young](Canada)
 - [Eli Knaap](_)
+- [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
