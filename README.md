@@ -6,4 +6,6 @@
 - [Bob Dylan](Somewhere)
 - [Neil Young](Canada)
 - [Eli Knaap](_)
+- [Jenny Chen](https://github.com/jchen321)
 - [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
+
