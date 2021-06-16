@@ -3,6 +3,7 @@
 ## Collaborators
 
 - [Serge Rey](https://github.com/sjsrey)
+- [Chelsy Alfaro] (https://github.com/calfa021)
 - [Bob Dylan](Somewhere)
 - [Neil Young](Canada)
 - [Eli Knaap](_)
